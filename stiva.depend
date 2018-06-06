@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1526289390 source:c:\rfls\catedra\fise_disciplina\programare2\seminarii\stiva\app_stiva.c
+	<stdio.h>
+	"stiva.h"
+
+1526286986 c:\rfls\catedra\fise_disciplina\programare2\seminarii\stiva\stiva.h
+
+1526289247 source:c:\rfls\catedra\fise_disciplina\programare2\seminarii\stiva\stiva.c
+	<stdio.h>
+	<stdlib.h>
+	"stiva.h"
+
